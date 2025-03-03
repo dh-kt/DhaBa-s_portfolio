@@ -12,4 +12,6 @@ A responsive, multi-language website showcasing the history and culture of Dabba
 
 ### Other Projects
 - [Project 1] DhaBa's Portfolio site
-- [Project 2] Dabbaso Town website
+- [Project 2] A linear-regression-project
+- [Project 3] Dabbaso Town website
+- 
